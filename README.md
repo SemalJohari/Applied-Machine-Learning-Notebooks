@@ -5,3 +5,4 @@ This repository contains Python notebooks of the various Machine Learning and De
 4. Image Operations
 5. U-Net/Mask-RCNN implementation
 6. Reinforcement Learning
+7. Optical Character Recognition
